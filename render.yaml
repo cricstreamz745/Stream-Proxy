@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-stream-proxy
+    env: php
+    buildCommand: ""
+    startCommand: ""
+    
