@@ -4,4 +4,5 @@ services:
     env: php
     buildCommand: ""
     startCommand: ""
+    plan: free
     
